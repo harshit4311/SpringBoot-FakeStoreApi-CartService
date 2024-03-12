@@ -21,9 +21,9 @@ http://localhost:1111/carts/
 ```shell
 http://localhost:1111/carts/productId
 
-**Example (to view the 1st product):**
+-Example (to view the 1st product):
 http://localhost:1111/carts/1
 ```
-**Example (to view the 2nd product):**
+-Example (to view the 2nd product):
 http://localhost:1111/carts/2
 ```
