@@ -7,7 +7,7 @@ Building a Spring Boot Application for a Cart Service
 
 ## Running the application locally
 - Fork this repository
-- Clone this repository
+- Clone this repository by:
 ```shell
 git clone https://github.com/harshit4311/SpringBoot-FakeStoreApi-CartService.git
 ```
