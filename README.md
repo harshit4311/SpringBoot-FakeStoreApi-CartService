@@ -15,7 +15,7 @@ git clone https://github.com/harshit4311/SpringBoot-FakeStoreApi-CartService.git
 ```shell
 mvn spring-boot:run
 ```
-## Run the code and paste the following in your URL Tab to see the ouput:
+## Run the code and paste the following in your URL Tab of your browser to see the ouput:
 
 - **To view all products in the cart**
 ```shell
