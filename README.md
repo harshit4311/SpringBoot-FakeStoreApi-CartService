@@ -37,3 +37,5 @@ http://localhost:1111/carts/1
 - Example (to view the 2nd product):
 http://localhost:1111/carts/2
 ```
+
+![alt text](http://url/to/carts:.png)
