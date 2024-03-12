@@ -16,3 +16,11 @@ mvn spring-boot:run
 ```shell
 http://localhost:1111/carts/
 ```
+
+- To view a specific product of the cart
+```shell
+http://localhost:1111/carts/productId
+
+**Example (to view the 1st product):**
+http://localhost:1111/carts/1
+```
