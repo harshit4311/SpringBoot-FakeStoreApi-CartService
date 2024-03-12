@@ -7,3 +7,6 @@ Building a Spring Boot Application for a Cart Service
 
 ## Running the application locally
 This is how you can do so:
+```shell
+mvn spring-boot:run
+```
