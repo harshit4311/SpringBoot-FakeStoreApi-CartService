@@ -10,7 +10,7 @@ This is how you can do so:
 ```shell
 mvn spring-boot:run
 ```
-## After calling the necessary API's, go to your browser and run:
+## After calling the necessary API's, paste the following in your URL Tab:
 
 - **To view all products in the cart**
 ```shell
