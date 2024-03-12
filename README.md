@@ -6,7 +6,12 @@ Building a Spring Boot Application for a Cart Service
 - [Maven](https://maven.apache.org)
 
 ## Running the application locally
-This is how you can do so **after forking and cloning this particular repository** :
+- Fork this repository
+- Clone this repository
+```shell
+git clone https://github.com/harshit4311/SpringBoot-FakeStoreApi-CartService.git
+```
+- Now, run:
 ```shell
 mvn spring-boot:run
 ```
