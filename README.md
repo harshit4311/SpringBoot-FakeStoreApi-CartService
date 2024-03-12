@@ -12,13 +12,13 @@ mvn spring-boot:run
 ```
 ## After calling the necessary API's, go to your browser and run:
 
-- To see all products in the cart
+- **To view all products in the cart**
 ```shell
 http://localhost:1111/carts/
 ```
 
 
-- To view a specific product of the cart
+- **To view a specific product of the cart:**
 ```shell
 http://localhost:1111/carts/productId
 
